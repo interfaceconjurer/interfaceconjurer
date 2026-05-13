@@ -22,7 +22,7 @@ Shipping the front end for agentic developer tools, designing interaction patter
 
 **[Fine Tunes](https://github.com/interfaceconjurer/fine-tunes)** — Python wrapper for training LoRA models on your own images. Collect your training images, run the script, get a custom image generation model in minutes.
 
-**[Resume](https://github.com/interfaceconjurer/resume)** — My resume, version-controlled and scored against best practices.
+**[Resume](https://github.com/interfaceconjurer/resume)** — A deep dive into my professional experience, from agentic developer tools to marketplace architecture to the art school origins.
 
 ---
 
