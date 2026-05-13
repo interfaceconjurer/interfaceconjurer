@@ -4,7 +4,7 @@
 
 I design and build developer tools at the intersection of what's desirable, viable, and technically feasible. I use AI as a force multiplier to ship at a speed and scope that neither design nor engineering achieves alone.
 
-Trained in representational art. Self-taught in engineering. Built for this moment.
+Trained in representational art. Self-taught in engineering. Built for this AI moment.
 
 ---
 
@@ -22,7 +22,7 @@ Shipping the front end for agentic developer tools, designing interaction patter
 
 **[Fine Tunes](https://github.com/interfaceconjurer/fine-tunes)** — Python wrapper for training LoRA models on your own images. Collect your training images, run the script, get a custom image generation model in minutes.
 
-**[Resume](https://github.com/interfaceconjurer/resume)** — A deep dive into my professional experience, from agentic developer tools to marketplace architecture to the art school origins.
+**[Resume](https://github.com/interfaceconjurer/resume)** — A deep dive into my professional experience, from agentic developer tools to marketplace architecture.
 
 ---
 
