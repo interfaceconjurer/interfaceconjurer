@@ -22,20 +22,8 @@ Shipping the front end for agentic developer tools, designing interaction patter
 
 **[Fine Tunes](https://github.com/interfaceconjurer/fine-tunes)** — Python wrapper for training LoRA models on your own images. Collect your training images, run the script, get a custom image generation model in minutes.
 
-**[Resume](https://github.com/interfaceconjurer/resume)** — A deep dive into my professional experience, from agentic developer tools to marketplace architecture.
-
----
-
-### Previously
-
-**Director of Product Design, AppExchange** — Led the redesign of Salesforce's marketplace serving 5,000+ partners and 150,000+ customers. Increased partner sign-ups ~60%, reduced listing creation from weeks to days.
-
-**Principal Product Designer & UX Engineer, Industries** — Joined with two pre-GA products, shipped them to GA, stood up 10 of 14 industry verticals. Industries now generates $3B+ in AOV.
-
-**Slalom Consulting** — Hybrid UX designer and front-end engineer embedded with Home Depot, AT&T, Coca-Cola, Comcast, and others.
-
 ---
 
 ### Connect
 
-[digitalchem.ist](https://digitalchem.ist) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321)
+[digitalchem.ist](https://digitalchem.ist) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321) | [Resume](https://github.com/interfaceconjurer/resume)
