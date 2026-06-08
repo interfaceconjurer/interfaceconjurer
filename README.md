@@ -1,6 +1,6 @@
 # Jordan L. Wright
 
-**AI-forward Designer & Engineer** | Pittsburgh, PA
+**AI-Native Designer & Engineer** | Pittsburgh, PA
 
 I design and build developer tools at the intersection of what's desirable, viable, and technically feasible. I use AI as a force multiplier to ship at a speed and scope that neither design nor engineering achieves alone.
 
