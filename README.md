@@ -12,7 +12,7 @@ Trained in representational art. Self-taught in engineering. Calibrated for AI.
 
 **Principal Product Designer, Developer Experience Platform** at Salesforce
 
-Shipping the front end for agentic developer tools, designing interaction patterns directly in code. Currently leading UX engineering, design systems, and cross-functional alignment across three product areas: an agentic coding harness (33K+ MAU), application lifecycle management tooling, and DX platform architecture spanning 50+ agentic surfaces.
+Shipping the front end for agentic developer tools, designing interaction patterns directly in code. Currently leading UX engineering, design systems, and cross-functional alignment across three product areas: an agentic coding harness (43K+ MAU), application lifecycle management tooling, and DX platform architecture spanning 50+ agentic surfaces.
 
 ---
 
