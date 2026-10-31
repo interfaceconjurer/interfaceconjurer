@@ -4,7 +4,7 @@
 
 I design and build developer tools at the intersection of what's desirable, viable, and technically feasible. I use AI as a force multiplier to ship at a speed and scope that neither design nor engineering achieves alone.
 
-Trained in representational art. Self-taught in engineering. Built for this AI moment.
+Trained in representational art. Self-taught in engineering. Calibrated for AI.
 
 ---
 
