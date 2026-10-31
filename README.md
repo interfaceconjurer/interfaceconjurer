@@ -16,14 +16,6 @@ Shipping the front end for agentic developer tools, designing interaction patter
 
 ---
 
-### Featured Projects
-
-**[Vibes-UI](https://github.com/interfaceconjurer/vibes-ui)** — Shared React component library and Storybook for an agentic chat harness. 60+ components, built entirely with AI-assisted development.
-
-**[Fine Tunes](https://github.com/interfaceconjurer/fine-tunes)** — Python wrapper for training LoRA models on your own images. Collect your training images, run the script, get a custom image generation model in minutes.
-
----
-
 ### Connect
 
 [digitalchem.ist](https://digitalchem.ist) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321) | [Resume](https://github.com/interfaceconjurer/resume)
