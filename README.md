@@ -18,4 +18,4 @@ Shipping the front end for agentic developer tools, designing interaction patter
 
 ### Connect
 
-[digitalchem.ist](https://digitalchem.ist) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321) | [Resume](https://github.com/interfaceconjurer/resume)
+[jordanwright.codes](https://jordanwright.codes) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321) | [Resume](https://github.com/interfaceconjurer/resume)
